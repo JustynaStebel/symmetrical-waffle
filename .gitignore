@@ -1,0 +1,14 @@
+/.bundle
+/vendor/bundle
+/public/react-build
+.idea
+/tmp-*
+.DS_Store
+npm-debug.log
+/log/*.log
+/tmp
+
+/node_modules/
+/server-build
+
+yarn-error.log
